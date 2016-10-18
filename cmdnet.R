@@ -1,3 +1,9 @@
+#======================================================================================================
+# cmdnet: an algorithm for identification of preserved networks in multiple datasets
+# author: Nicholas Wisniewski
+# date: October 17, 2016
+#======================================================================================================
+
 library(psych)
 library(matrixcalc)
 
