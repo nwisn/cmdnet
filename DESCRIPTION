@@ -1,0 +1,17 @@
+Package: cmdnet
+Title: An algorithm for identification of preserved networks across multiple
+    datasets
+Version: 0.0.0.9000
+Authors@R: person("Nicholas", "Wisniewski", email = "nw@ucla.edu", role = c("aut", "cre"))
+Description: This package computes correlation matrix distance (CMD) statistics
+    for an ensemble of networks. It can be used to quantify overal and node-specific
+    differences between network datasets, and rank nodes by consistency of edge
+    weights.
+Depends:
+    R (>= 3.2.3),
+    psych,
+    matrixcalc
+Maintainer: Nicholas Wisniewski <nw@ucla.edu>
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1

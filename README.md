@@ -1,2 +1,2 @@
 # cmdnet
-correlation matrix distance analysis of an ensemble of networks
+This package computes correlation matrix distance statistics for an ensemble of networks. 
