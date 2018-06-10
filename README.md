@@ -6,7 +6,7 @@ As more scientific data is shared, better tools are needed for integrating multi
 ## Vignette
 There is a [vignette](cmdnet_vignette.pdf) illustrating the use of `cmdnet`.
 
-### installation
+## Installation
 To install, first install the `devtools` package, and then type:
 `install_github("nwisn/cmdnet")`.
 
